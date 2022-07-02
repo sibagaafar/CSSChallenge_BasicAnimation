@@ -7,3 +7,7 @@ Welcome aboard fellow developer, this is a simple challenge to apply the basic c
 3- Animation
 
 
+## Challenge Source:
+
+https://elzero.org/frontend-el-letters-animations/
+
