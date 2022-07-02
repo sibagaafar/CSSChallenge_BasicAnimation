@@ -1,2 +1,5 @@
 # CSSChallenge_BasicAnimation
-Drawing (E &amp; L) letters by grid property, and adding some animations.
+Welcome aboard fellow developer, this is a simple challenge to apply the basic concepts in CSS Animation.
+
+
+
